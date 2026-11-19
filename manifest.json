@@ -7,9 +7,18 @@
   "kw45-chili-sin-carne",
   "kw46-haehnchen-erdnuss-pfanne",
   "kw46-pilz-spinat-pasta",
-  "kw46-kuerbis-kichererbsen-blech"
+  "kw46-kuerbis-kichererbsen-blech",
+  "xmas-feldsalat-birne-walnuss",
+  "xmas-rheinischer-sauerbraten",
+  "xmas-apfelrotkohl",
+  "xmas-kartoffelkloesse",
+  "xmas-panna-cotta-orange",
+  "xmas-maronensuppe-apfel",
+  "xmas-lachs-wellington",
+  "xmas-spekulatius-tiramisu"
  ],
  "listen": [
-  "2026-KW46"
+  "2026-KW46",
+  "2026-KW47-Weihnachten"
  ]
 }

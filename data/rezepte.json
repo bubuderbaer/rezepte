@@ -1,26 +1,1280 @@
 [
-{"id":"kw45-pellkartoffeln-kraeuterquark","batch":"2026-KW45","reihenfolge":1,"titel":"Pellkartoffeln mit Kräuterquark & Gurken-Radieschen-Salat","portionen":1,"arbeitszeit":15,"gesamtzeit":25,"tags":["vegetarisch"],"naehrwerte_portion":{"kcal":520,"eiweiss":39,"kh":61,"fett":12,"bst":7},
- "zutaten":[{"name":"Kartoffeln, festkochend, roh","menge":300,"einheit":"g"},{"name":"Magerquark","menge":250,"einheit":"g"},{"name":"Milch 1,5 %","menge":30,"einheit":"g"},{"name":"Leinöl","menge":5,"einheit":"g"},{"name":"Kräuter TK (8-Kräuter-Mischung)","menge":15,"einheit":"g"},{"name":"Salatgurke","menge":150,"einheit":"g"},{"name":"Radieschen","menge":80,"einheit":"g"},{"name":"Olivenöl","menge":5,"einheit":"g"}],
- "schritte":["Kartoffeln mit Schale in Salzwasser 20–25 min garen.","Quark mit Milch, Leinöl, Kräutern, Salz, Pfeffer, etwas Knoblauch- oder Zwiebelpulver glattrühren.","Gurke und Radieschen hobeln, mit Olivenöl, Essig, Salz, Pfeffer und Dill/Kräutern anmachen."]},
-{"id":"kw45-linsen-bolognese","batch":"2026-KW45","reihenfolge":2,"titel":"Rote-Linsen-Bolognese mit Vollkornspaghetti","portionen":2,"arbeitszeit":20,"gesamtzeit":30,"tags":["vegetarisch","Pasta"],"naehrwerte_portion":{"kcal":630,"eiweiss":33,"kh":86,"fett":13,"bst":19},
- "zutaten":[{"name":"Vollkornspaghetti, trocken","menge":120,"einheit":"g"},{"name":"Rote Linsen, trocken","menge":100,"einheit":"g"},{"name":"Zwiebel","menge":80,"einheit":"g"},{"name":"Karotte","menge":150,"einheit":"g"},{"name":"Staudensellerie","menge":100,"einheit":"g"},{"name":"Zucchini","menge":200,"einheit":"g"},{"name":"Knoblauch","menge":6,"einheit":"g"},{"name":"Olivenöl","menge":10,"einheit":"g"},{"name":"Tomatenmark","menge":30,"einheit":"g"},{"name":"Passierte Tomaten","menge":500,"einheit":"g"},{"name":"Gemüsebrühe (zubereitet)","menge":200,"einheit":"ml"},{"name":"Parmesan","menge":30,"einheit":"g"}],
- "schritte":["Zwiebel, Karotte, Sellerie, Zucchini sehr fein würfeln (oder im Zerkleinerer hacken), Knoblauch hacken.","Gemüse in Olivenöl 5 min anbraten, Tomatenmark 1 min mitrösten.","Linsen (gewaschen), passierte Tomaten, Brühe, Oregano, Thymian, Salz, Pfeffer zugeben; 15 min köcheln, bis die Linsen zerfallen. Bei Bedarf Wasser nachgießen.","Parallel Spaghetti kochen. Mit Parmesan servieren."]},
-{"id":"kw45-ofenlachs-rosenkohl","batch":"2026-KW45","reihenfolge":3,"titel":"Ofenlachs mit Rosenkohl, Kartoffeln & Senf-Skyr-Dip","portionen":2,"arbeitszeit":15,"gesamtzeit":40,"tags":["Fisch","Ofen"],"naehrwerte_portion":{"kcal":635,"eiweiss":52,"kh":43,"fett":25,"bst":14},
- "zutaten":[{"name":"Lachsfilet ohne Haut, roh","menge":250,"einheit":"g"},{"name":"Rosenkohl, roh","menge":500,"einheit":"g"},{"name":"Kartoffeln, festkochend, roh","menge":400,"einheit":"g"},{"name":"Rapsöl","menge":15,"einheit":"g"},{"name":"Skyr natur","menge":200,"einheit":"g"},{"name":"Senf mittelscharf","menge":20,"einheit":"g"},{"name":"Zitronensaft","menge":10,"einheit":"g"},{"name":"Dill TK","menge":5,"einheit":"g"}],
- "schritte":["Ofen auf 220 °C Ober-/Unterhitze. Kartoffeln vierteln, Rosenkohl halbieren, mit Rapsöl, Salz, Pfeffer auf einem Blech mischen, 20 min rösten.","Lachs salzen, pfeffern, aufs Blech legen, weitere 12–15 min garen.","Skyr mit Senf, Zitronensaft, Dill, Salz, Pfeffer verrühren. Optional 1–2 Tropfen Süßstoff für eine „Honig-Senf“-Note."]},
-{"id":"kw45-kichererbsen-blumenkohl-curry","batch":"2026-KW45","reihenfolge":4,"titel":"Kichererbsen-Blumenkohl-Curry mit Tofu & Spinat","portionen":2,"arbeitszeit":25,"gesamtzeit":30,"tags":["vegetarisch","Curry"],"naehrwerte_portion":{"kcal":640,"eiweiss":36,"kh":68,"fett":21,"bst":18},
- "zutaten":[{"name":"Tofu natur","menge":200,"einheit":"g"},{"name":"Kichererbsen, abgetropft","menge":240,"einheit":"g"},{"name":"Blumenkohl","menge":400,"einheit":"g"},{"name":"Blattspinat TK","menge":200,"einheit":"g"},{"name":"Zwiebel","menge":80,"einheit":"g"},{"name":"Knoblauch","menge":6,"einheit":"g"},{"name":"Ingwer","menge":10,"einheit":"g"},{"name":"Currypulver","menge":8,"einheit":"g"},{"name":"Gehackte Tomaten (Dose)","menge":400,"einheit":"g"},{"name":"Kokosmilch light / fettreduziert","menge":150,"einheit":"g"},{"name":"Rapsöl","menge":5,"einheit":"g"},{"name":"Basmatireis, trocken","menge":80,"einheit":"g"}],
- "schritte":["Reis aufsetzen. Tofu in Würfel schneiden und in einer beschichteten Pfanne ohne Öl rundum 8 min knusprig braten, herausnehmen.","Zwiebel, Knoblauch, Ingwer in Rapsöl andünsten, Currypulver 30 s mitrösten.","Blumenkohlröschen, Tomaten, Kokosmilch zugeben, zugedeckt 10–12 min köcheln.","Kichererbsen, Spinat (gefroren) und Tofu unterheben, 3–4 min erhitzen. Mit Salz, Zitronensaft abschmecken."]},
-{"id":"kw45-chili-sin-carne","batch":"2026-KW45","reihenfolge":5,"titel":"Chili sin Carne mit Sojahack","portionen":4,"arbeitszeit":20,"gesamtzeit":40,"tags":["vegan","Meal Prep"],"naehrwerte_portion":{"kcal":485,"eiweiss":41,"kh":53,"fett":7,"bst":21},
- "zutaten":[{"name":"Sojagranulat (Sojahack), trocken","menge":120,"einheit":"g"},{"name":"Gemüsebrühe (zubereitet)","menge":360,"einheit":"ml"},{"name":"Kidneybohnen, abgetropft","menge":500,"einheit":"g"},{"name":"Mais, abgetropft","menge":285,"einheit":"g"},{"name":"Paprika rot","menge":400,"einheit":"g"},{"name":"Zwiebel","menge":150,"einheit":"g"},{"name":"Knoblauch","menge":9,"einheit":"g"},{"name":"Zucchini","menge":300,"einheit":"g"},{"name":"Gehackte Tomaten (Dose)","menge":800,"einheit":"g"},{"name":"Tomatenmark","menge":40,"einheit":"g"},{"name":"Rapsöl","menge":15,"einheit":"g"},{"name":"Skyr natur (als Topping)","menge":300,"einheit":"g"}],
- "schritte":["Sojagranulat 10 min in heißer Brühe quellen lassen.","Zwiebel, Knoblauch, Paprika, Zucchini würfeln. Sojahack in Rapsöl kräftig anbraten (Röstaromen!), Gemüse 5 min mitbraten.","Tomatenmark, je 1 TL Kreuzkümmel und geräuchertes Paprikapulver, Chili nach Geschmack, Oregano kurz mitrösten.","Tomaten, Bohnen, Mais zugeben, 15–20 min köcheln. Statt Zucker: weglassen oder 1–2 Tropfen Süßstoff; optional 1 TL Backkakao.","Mit je 75 g Skyr servieren."]},
-{"id":"kw46-haehnchen-erdnuss-pfanne","batch":"2026-KW46","reihenfolge":1,"titel":"Hähnchen-Erdnuss-Pfanne mit Brokkoli, Paprika & Reis","portionen":2,"arbeitszeit":25,"gesamtzeit":25,"tags":["Hähnchen","Pfanne","asiatisch"],"naehrwerte_portion":{"kcal":614,"eiweiss":53,"kh":59,"fett":16,"bst":13},
- "zutaten":[{"name":"Hähnchenbrustfilet, roh","menge":300,"einheit":"g"},{"name":"Brokkoli","menge":400,"einheit":"g"},{"name":"Paprika rot","menge":200,"einheit":"g"},{"name":"Karotte","menge":150,"einheit":"g"},{"name":"Frühlingszwiebeln","menge":50,"einheit":"g"},{"name":"Knoblauch","menge":6,"einheit":"g"},{"name":"Ingwer","menge":10,"einheit":"g"},{"name":"Erdnussmus, 100 % Erdnüsse","menge":30,"einheit":"g"},{"name":"Sojasauce","menge":30,"einheit":"g"},{"name":"Limettensaft","menge":15,"einheit":"g"},{"name":"Rapsöl","menge":10,"einheit":"g"},{"name":"Basmatireis, trocken","menge":100,"einheit":"g"}],
- "schritte":["Reis nach Packungsanweisung garen (ca. 15 min).","Soße: Erdnussmus, Sojasauce, Limettensaft, 60 ml warmes Wasser, geriebenen Ingwer, 1 gepresste Knoblauchzehe, Chiliflocken und 2–3 Tropfen flüssigen Süßstoff glattrühren.","Hähnchen in Streifen schneiden, in Rapsöl im Wok oder in einer großen Pfanne 4–5 min scharf anbraten, herausnehmen.","Brokkoli in kleine Röschen teilen (Strunk schälen und in Scheiben mitverwenden), Karotte in dünne Scheiben, Paprika in Streifen schneiden. Im Bratfett 4 min braten, 50 ml Wasser angießen, zugedeckt 3 min dämpfen.","Hähnchen und Soße zugeben, 1 min durchschwenken, Frühlingszwiebelringe darüberstreuen. Mit Reis servieren."]},
-{"id":"kw46-pilz-spinat-pasta","batch":"2026-KW46","reihenfolge":2,"titel":"Cremige Pilz-Spinat-Pasta mit Hüttenkäse-Soße & Erbsen","portionen":2,"arbeitszeit":20,"gesamtzeit":20,"tags":["vegetarisch","Pasta"],"naehrwerte_portion":{"kcal":645,"eiweiss":49,"kh":57,"fett":21,"bst":16},
- "zutaten":[{"name":"Vollkornpenne, trocken","menge":120,"einheit":"g"},{"name":"Champignons braun","menge":400,"einheit":"g"},{"name":"Blattspinat TK","menge":200,"einheit":"g"},{"name":"Erbsen TK","menge":150,"einheit":"g"},{"name":"Zwiebel","menge":80,"einheit":"g"},{"name":"Knoblauch","menge":6,"einheit":"g"},{"name":"Körniger Frischkäse (Hüttenkäse)","menge":400,"einheit":"g"},{"name":"Parmesan","menge":30,"einheit":"g"},{"name":"Olivenöl","menge":10,"einheit":"g"}],
- "schritte":["Penne in Salzwasser garen, Erbsen in den letzten 3 min mitkochen. Vor dem Abgießen 100 ml Nudelwasser abnehmen.","Hüttenkäse mit zwei Dritteln des Parmesans, Muskat, Pfeffer, etwas Zitronenabrieb und 3–4 EL Nudelwasser mit dem Pürierstab glatt mixen.","Champignons in Scheiben in Olivenöl bei hoher Hitze 6–7 min braten, bis sie gebräunt sind (erst dann salzen). Zwiebel und Knoblauch fein hacken, 2 min mitbraten.","Gefrorenen Spinat zugeben und 3–4 min garen, bis er aufgetaut und die Flüssigkeit verdampft ist.","Herd auf niedrige Stufe: Pasta, Erbsen und Soße unterheben und mit Nudelwasser cremig stellen – nicht mehr kochen lassen, sonst flockt der Hüttenkäse. Mit restlichem Parmesan servieren."]},
-{"id":"kw46-kuerbis-kichererbsen-blech","batch":"2026-KW46","reihenfolge":3,"titel":"Ofen-Kürbis mit Kichererbsen, Feta & Kräuter-Skyr auf Bulgur","portionen":4,"arbeitszeit":15,"gesamtzeit":40,"tags":["vegetarisch","Ofen","Meal Prep"],"naehrwerte_portion":{"kcal":672,"eiweiss":42,"kh":82,"fett":15,"bst":20},
- "zutaten":[{"name":"Hokkaido-Kürbis, roh (entkernt, mit Schale)","menge":1000,"einheit":"g"},{"name":"Paprika rot","menge":400,"einheit":"g"},{"name":"Rote Zwiebel","menge":200,"einheit":"g"},{"name":"Kichererbsen, abgetropft","menge":480,"einheit":"g"},{"name":"Olivenöl","menge":20,"einheit":"g"},{"name":"Feta light (ca. 9 % Fett)","menge":200,"einheit":"g"},{"name":"Bulgur, trocken","menge":160,"einheit":"g"},{"name":"Babyspinat","menge":100,"einheit":"g"},{"name":"Skyr natur","menge":500,"einheit":"g"},{"name":"Knoblauch","menge":6,"einheit":"g"},{"name":"Zitronensaft","menge":20,"einheit":"g"},{"name":"Petersilie TK","menge":15,"einheit":"g"}],
- "schritte":["Ofen auf 220 °C Ober-/Unterhitze (200 °C Umluft) vorheizen. Hokkaido waschen, entkernen und mit Schale in 2 cm große Würfel schneiden. Paprika in Stücke, rote Zwiebeln in Achtel schneiden. Kichererbsen abspülen und trocken tupfen.","Alles mit Olivenöl, je 2 TL Kreuzkümmel und Paprikapulver edelsüß, ½ TL Chiliflocken und Salz mischen, auf 2 Bleche verteilen und 25 min rösten; nach 15 min wenden. Feta zerbröseln und für die letzten 5 min darüberstreuen.","Bulgur mit 320 ml kochendem Salzwasser übergießen, zugedeckt 10–15 min quellen lassen.","Skyr mit gepresstem Knoblauch, Zitronensaft, Petersilie, Salz und Pfeffer verrühren.","Babyspinat unter den warmen Bulgur heben, Ofengemüse darauf verteilen, Kräuter-Skyr dazu servieren."]}
+ {
+  "id": "kw45-pellkartoffeln-kraeuterquark",
+  "batch": "2026-KW45",
+  "reihenfolge": 1,
+  "titel": "Pellkartoffeln mit Kräuterquark & Gurken-Radieschen-Salat",
+  "portionen": 1,
+  "arbeitszeit": 15,
+  "gesamtzeit": 25,
+  "tags": [
+   "vegetarisch"
+  ],
+  "naehrwerte_portion": {
+   "kcal": 520,
+   "eiweiss": 39,
+   "kh": 61,
+   "fett": 12,
+   "bst": 7
+  },
+  "zutaten": [
+   {
+    "name": "Kartoffeln, festkochend, roh",
+    "menge": 300,
+    "einheit": "g"
+   },
+   {
+    "name": "Magerquark",
+    "menge": 250,
+    "einheit": "g"
+   },
+   {
+    "name": "Milch 1,5 %",
+    "menge": 30,
+    "einheit": "g"
+   },
+   {
+    "name": "Leinöl",
+    "menge": 5,
+    "einheit": "g"
+   },
+   {
+    "name": "Kräuter TK (8-Kräuter-Mischung)",
+    "menge": 15,
+    "einheit": "g"
+   },
+   {
+    "name": "Salatgurke",
+    "menge": 150,
+    "einheit": "g"
+   },
+   {
+    "name": "Radieschen",
+    "menge": 80,
+    "einheit": "g"
+   },
+   {
+    "name": "Olivenöl",
+    "menge": 5,
+    "einheit": "g"
+   }
+  ],
+  "schritte": [
+   "Kartoffeln mit Schale in Salzwasser 20–25 min garen.",
+   "Quark mit Milch, Leinöl, Kräutern, Salz, Pfeffer, etwas Knoblauch- oder Zwiebelpulver glattrühren.",
+   "Gurke und Radieschen hobeln, mit Olivenöl, Essig, Salz, Pfeffer und Dill/Kräutern anmachen."
+  ]
+ },
+ {
+  "id": "kw45-linsen-bolognese",
+  "batch": "2026-KW45",
+  "reihenfolge": 2,
+  "titel": "Rote-Linsen-Bolognese mit Vollkornspaghetti",
+  "portionen": 2,
+  "arbeitszeit": 20,
+  "gesamtzeit": 30,
+  "tags": [
+   "vegetarisch",
+   "Pasta"
+  ],
+  "naehrwerte_portion": {
+   "kcal": 630,
+   "eiweiss": 33,
+   "kh": 86,
+   "fett": 13,
+   "bst": 19
+  },
+  "zutaten": [
+   {
+    "name": "Vollkornspaghetti, trocken",
+    "menge": 120,
+    "einheit": "g"
+   },
+   {
+    "name": "Rote Linsen, trocken",
+    "menge": 100,
+    "einheit": "g"
+   },
+   {
+    "name": "Zwiebel",
+    "menge": 80,
+    "einheit": "g"
+   },
+   {
+    "name": "Karotte",
+    "menge": 150,
+    "einheit": "g"
+   },
+   {
+    "name": "Staudensellerie",
+    "menge": 100,
+    "einheit": "g"
+   },
+   {
+    "name": "Zucchini",
+    "menge": 200,
+    "einheit": "g"
+   },
+   {
+    "name": "Knoblauch",
+    "menge": 6,
+    "einheit": "g"
+   },
+   {
+    "name": "Olivenöl",
+    "menge": 10,
+    "einheit": "g"
+   },
+   {
+    "name": "Tomatenmark",
+    "menge": 30,
+    "einheit": "g"
+   },
+   {
+    "name": "Passierte Tomaten",
+    "menge": 500,
+    "einheit": "g"
+   },
+   {
+    "name": "Gemüsebrühe (zubereitet)",
+    "menge": 200,
+    "einheit": "ml"
+   },
+   {
+    "name": "Parmesan",
+    "menge": 30,
+    "einheit": "g"
+   }
+  ],
+  "schritte": [
+   "Zwiebel, Karotte, Sellerie, Zucchini sehr fein würfeln (oder im Zerkleinerer hacken), Knoblauch hacken.",
+   "Gemüse in Olivenöl 5 min anbraten, Tomatenmark 1 min mitrösten.",
+   "Linsen (gewaschen), passierte Tomaten, Brühe, Oregano, Thymian, Salz, Pfeffer zugeben; 15 min köcheln, bis die Linsen zerfallen. Bei Bedarf Wasser nachgießen.",
+   "Parallel Spaghetti kochen. Mit Parmesan servieren."
+  ]
+ },
+ {
+  "id": "kw45-ofenlachs-rosenkohl",
+  "batch": "2026-KW45",
+  "reihenfolge": 3,
+  "titel": "Ofenlachs mit Rosenkohl, Kartoffeln & Senf-Skyr-Dip",
+  "portionen": 2,
+  "arbeitszeit": 15,
+  "gesamtzeit": 40,
+  "tags": [
+   "Fisch",
+   "Ofen"
+  ],
+  "naehrwerte_portion": {
+   "kcal": 635,
+   "eiweiss": 52,
+   "kh": 43,
+   "fett": 25,
+   "bst": 14
+  },
+  "zutaten": [
+   {
+    "name": "Lachsfilet ohne Haut, roh",
+    "menge": 250,
+    "einheit": "g"
+   },
+   {
+    "name": "Rosenkohl, roh",
+    "menge": 500,
+    "einheit": "g"
+   },
+   {
+    "name": "Kartoffeln, festkochend, roh",
+    "menge": 400,
+    "einheit": "g"
+   },
+   {
+    "name": "Rapsöl",
+    "menge": 15,
+    "einheit": "g"
+   },
+   {
+    "name": "Skyr natur",
+    "menge": 200,
+    "einheit": "g"
+   },
+   {
+    "name": "Senf mittelscharf",
+    "menge": 20,
+    "einheit": "g"
+   },
+   {
+    "name": "Zitronensaft",
+    "menge": 10,
+    "einheit": "g"
+   },
+   {
+    "name": "Dill TK",
+    "menge": 5,
+    "einheit": "g"
+   }
+  ],
+  "schritte": [
+   "Ofen auf 220 °C Ober-/Unterhitze. Kartoffeln vierteln, Rosenkohl halbieren, mit Rapsöl, Salz, Pfeffer auf einem Blech mischen, 20 min rösten.",
+   "Lachs salzen, pfeffern, aufs Blech legen, weitere 12–15 min garen.",
+   "Skyr mit Senf, Zitronensaft, Dill, Salz, Pfeffer verrühren. Optional 1–2 Tropfen Süßstoff für eine „Honig-Senf“-Note."
+  ]
+ },
+ {
+  "id": "kw45-kichererbsen-blumenkohl-curry",
+  "batch": "2026-KW45",
+  "reihenfolge": 4,
+  "titel": "Kichererbsen-Blumenkohl-Curry mit Tofu & Spinat",
+  "portionen": 2,
+  "arbeitszeit": 25,
+  "gesamtzeit": 30,
+  "tags": [
+   "vegetarisch",
+   "Curry"
+  ],
+  "naehrwerte_portion": {
+   "kcal": 640,
+   "eiweiss": 36,
+   "kh": 68,
+   "fett": 21,
+   "bst": 18
+  },
+  "zutaten": [
+   {
+    "name": "Tofu natur",
+    "menge": 200,
+    "einheit": "g"
+   },
+   {
+    "name": "Kichererbsen, abgetropft",
+    "menge": 240,
+    "einheit": "g"
+   },
+   {
+    "name": "Blumenkohl",
+    "menge": 400,
+    "einheit": "g"
+   },
+   {
+    "name": "Blattspinat TK",
+    "menge": 200,
+    "einheit": "g"
+   },
+   {
+    "name": "Zwiebel",
+    "menge": 80,
+    "einheit": "g"
+   },
+   {
+    "name": "Knoblauch",
+    "menge": 6,
+    "einheit": "g"
+   },
+   {
+    "name": "Ingwer",
+    "menge": 10,
+    "einheit": "g"
+   },
+   {
+    "name": "Currypulver",
+    "menge": 8,
+    "einheit": "g"
+   },
+   {
+    "name": "Gehackte Tomaten (Dose)",
+    "menge": 400,
+    "einheit": "g"
+   },
+   {
+    "name": "Kokosmilch light / fettreduziert",
+    "menge": 150,
+    "einheit": "g"
+   },
+   {
+    "name": "Rapsöl",
+    "menge": 5,
+    "einheit": "g"
+   },
+   {
+    "name": "Basmatireis, trocken",
+    "menge": 80,
+    "einheit": "g"
+   }
+  ],
+  "schritte": [
+   "Reis aufsetzen. Tofu in Würfel schneiden und in einer beschichteten Pfanne ohne Öl rundum 8 min knusprig braten, herausnehmen.",
+   "Zwiebel, Knoblauch, Ingwer in Rapsöl andünsten, Currypulver 30 s mitrösten.",
+   "Blumenkohlröschen, Tomaten, Kokosmilch zugeben, zugedeckt 10–12 min köcheln.",
+   "Kichererbsen, Spinat (gefroren) und Tofu unterheben, 3–4 min erhitzen. Mit Salz, Zitronensaft abschmecken."
+  ]
+ },
+ {
+  "id": "kw45-chili-sin-carne",
+  "batch": "2026-KW45",
+  "reihenfolge": 5,
+  "titel": "Chili sin Carne mit Sojahack",
+  "portionen": 4,
+  "arbeitszeit": 20,
+  "gesamtzeit": 40,
+  "tags": [
+   "vegan",
+   "Meal Prep"
+  ],
+  "naehrwerte_portion": {
+   "kcal": 485,
+   "eiweiss": 41,
+   "kh": 53,
+   "fett": 7,
+   "bst": 21
+  },
+  "zutaten": [
+   {
+    "name": "Sojagranulat (Sojahack), trocken",
+    "menge": 120,
+    "einheit": "g"
+   },
+   {
+    "name": "Gemüsebrühe (zubereitet)",
+    "menge": 360,
+    "einheit": "ml"
+   },
+   {
+    "name": "Kidneybohnen, abgetropft",
+    "menge": 500,
+    "einheit": "g"
+   },
+   {
+    "name": "Mais, abgetropft",
+    "menge": 285,
+    "einheit": "g"
+   },
+   {
+    "name": "Paprika rot",
+    "menge": 400,
+    "einheit": "g"
+   },
+   {
+    "name": "Zwiebel",
+    "menge": 150,
+    "einheit": "g"
+   },
+   {
+    "name": "Knoblauch",
+    "menge": 9,
+    "einheit": "g"
+   },
+   {
+    "name": "Zucchini",
+    "menge": 300,
+    "einheit": "g"
+   },
+   {
+    "name": "Gehackte Tomaten (Dose)",
+    "menge": 800,
+    "einheit": "g"
+   },
+   {
+    "name": "Tomatenmark",
+    "menge": 40,
+    "einheit": "g"
+   },
+   {
+    "name": "Rapsöl",
+    "menge": 15,
+    "einheit": "g"
+   },
+   {
+    "name": "Skyr natur (als Topping)",
+    "menge": 300,
+    "einheit": "g"
+   }
+  ],
+  "schritte": [
+   "Sojagranulat 10 min in heißer Brühe quellen lassen.",
+   "Zwiebel, Knoblauch, Paprika, Zucchini würfeln. Sojahack in Rapsöl kräftig anbraten (Röstaromen!), Gemüse 5 min mitbraten.",
+   "Tomatenmark, je 1 TL Kreuzkümmel und geräuchertes Paprikapulver, Chili nach Geschmack, Oregano kurz mitrösten.",
+   "Tomaten, Bohnen, Mais zugeben, 15–20 min köcheln. Statt Zucker: weglassen oder 1–2 Tropfen Süßstoff; optional 1 TL Backkakao.",
+   "Mit je 75 g Skyr servieren."
+  ]
+ },
+ {
+  "id": "kw46-haehnchen-erdnuss-pfanne",
+  "batch": "2026-KW46",
+  "reihenfolge": 1,
+  "titel": "Hähnchen-Erdnuss-Pfanne mit Brokkoli, Paprika & Reis",
+  "portionen": 2,
+  "arbeitszeit": 25,
+  "gesamtzeit": 25,
+  "tags": [
+   "Hähnchen",
+   "Pfanne",
+   "asiatisch"
+  ],
+  "naehrwerte_portion": {
+   "kcal": 614,
+   "eiweiss": 53,
+   "kh": 59,
+   "fett": 16,
+   "bst": 13
+  },
+  "zutaten": [
+   {
+    "name": "Hähnchenbrustfilet, roh",
+    "menge": 300,
+    "einheit": "g"
+   },
+   {
+    "name": "Brokkoli",
+    "menge": 400,
+    "einheit": "g"
+   },
+   {
+    "name": "Paprika rot",
+    "menge": 200,
+    "einheit": "g"
+   },
+   {
+    "name": "Karotte",
+    "menge": 150,
+    "einheit": "g"
+   },
+   {
+    "name": "Frühlingszwiebeln",
+    "menge": 50,
+    "einheit": "g"
+   },
+   {
+    "name": "Knoblauch",
+    "menge": 6,
+    "einheit": "g"
+   },
+   {
+    "name": "Ingwer",
+    "menge": 10,
+    "einheit": "g"
+   },
+   {
+    "name": "Erdnussmus, 100 % Erdnüsse",
+    "menge": 30,
+    "einheit": "g"
+   },
+   {
+    "name": "Sojasauce",
+    "menge": 30,
+    "einheit": "g"
+   },
+   {
+    "name": "Limettensaft",
+    "menge": 15,
+    "einheit": "g"
+   },
+   {
+    "name": "Rapsöl",
+    "menge": 10,
+    "einheit": "g"
+   },
+   {
+    "name": "Basmatireis, trocken",
+    "menge": 100,
+    "einheit": "g"
+   }
+  ],
+  "schritte": [
+   "Reis nach Packungsanweisung garen (ca. 15 min).",
+   "Soße: Erdnussmus, Sojasauce, Limettensaft, 60 ml warmes Wasser, geriebenen Ingwer, 1 gepresste Knoblauchzehe, Chiliflocken und 2–3 Tropfen flüssigen Süßstoff glattrühren.",
+   "Hähnchen in Streifen schneiden, in Rapsöl im Wok oder in einer großen Pfanne 4–5 min scharf anbraten, herausnehmen.",
+   "Brokkoli in kleine Röschen teilen (Strunk schälen und in Scheiben mitverwenden), Karotte in dünne Scheiben, Paprika in Streifen schneiden. Im Bratfett 4 min braten, 50 ml Wasser angießen, zugedeckt 3 min dämpfen.",
+   "Hähnchen und Soße zugeben, 1 min durchschwenken, Frühlingszwiebelringe darüberstreuen. Mit Reis servieren."
+  ]
+ },
+ {
+  "id": "kw46-pilz-spinat-pasta",
+  "batch": "2026-KW46",
+  "reihenfolge": 2,
+  "titel": "Cremige Pilz-Spinat-Pasta mit Hüttenkäse-Soße & Erbsen",
+  "portionen": 2,
+  "arbeitszeit": 20,
+  "gesamtzeit": 20,
+  "tags": [
+   "vegetarisch",
+   "Pasta"
+  ],
+  "naehrwerte_portion": {
+   "kcal": 645,
+   "eiweiss": 49,
+   "kh": 57,
+   "fett": 21,
+   "bst": 16
+  },
+  "zutaten": [
+   {
+    "name": "Vollkornpenne, trocken",
+    "menge": 120,
+    "einheit": "g"
+   },
+   {
+    "name": "Champignons braun",
+    "menge": 400,
+    "einheit": "g"
+   },
+   {
+    "name": "Blattspinat TK",
+    "menge": 200,
+    "einheit": "g"
+   },
+   {
+    "name": "Erbsen TK",
+    "menge": 150,
+    "einheit": "g"
+   },
+   {
+    "name": "Zwiebel",
+    "menge": 80,
+    "einheit": "g"
+   },
+   {
+    "name": "Knoblauch",
+    "menge": 6,
+    "einheit": "g"
+   },
+   {
+    "name": "Körniger Frischkäse (Hüttenkäse)",
+    "menge": 400,
+    "einheit": "g"
+   },
+   {
+    "name": "Parmesan",
+    "menge": 30,
+    "einheit": "g"
+   },
+   {
+    "name": "Olivenöl",
+    "menge": 10,
+    "einheit": "g"
+   }
+  ],
+  "schritte": [
+   "Penne in Salzwasser garen, Erbsen in den letzten 3 min mitkochen. Vor dem Abgießen 100 ml Nudelwasser abnehmen.",
+   "Hüttenkäse mit zwei Dritteln des Parmesans, Muskat, Pfeffer, etwas Zitronenabrieb und 3–4 EL Nudelwasser mit dem Pürierstab glatt mixen.",
+   "Champignons in Scheiben in Olivenöl bei hoher Hitze 6–7 min braten, bis sie gebräunt sind (erst dann salzen). Zwiebel und Knoblauch fein hacken, 2 min mitbraten.",
+   "Gefrorenen Spinat zugeben und 3–4 min garen, bis er aufgetaut und die Flüssigkeit verdampft ist.",
+   "Herd auf niedrige Stufe: Pasta, Erbsen und Soße unterheben und mit Nudelwasser cremig stellen – nicht mehr kochen lassen, sonst flockt der Hüttenkäse. Mit restlichem Parmesan servieren."
+  ]
+ },
+ {
+  "id": "kw46-kuerbis-kichererbsen-blech",
+  "batch": "2026-KW46",
+  "reihenfolge": 3,
+  "titel": "Ofen-Kürbis mit Kichererbsen, Feta & Kräuter-Skyr auf Bulgur",
+  "portionen": 4,
+  "arbeitszeit": 15,
+  "gesamtzeit": 40,
+  "tags": [
+   "vegetarisch",
+   "Ofen",
+   "Meal Prep"
+  ],
+  "naehrwerte_portion": {
+   "kcal": 672,
+   "eiweiss": 42,
+   "kh": 82,
+   "fett": 15,
+   "bst": 20
+  },
+  "zutaten": [
+   {
+    "name": "Hokkaido-Kürbis, roh (entkernt, mit Schale)",
+    "menge": 1000,
+    "einheit": "g"
+   },
+   {
+    "name": "Paprika rot",
+    "menge": 400,
+    "einheit": "g"
+   },
+   {
+    "name": "Rote Zwiebel",
+    "menge": 200,
+    "einheit": "g"
+   },
+   {
+    "name": "Kichererbsen, abgetropft",
+    "menge": 480,
+    "einheit": "g"
+   },
+   {
+    "name": "Olivenöl",
+    "menge": 20,
+    "einheit": "g"
+   },
+   {
+    "name": "Feta light (ca. 9 % Fett)",
+    "menge": 200,
+    "einheit": "g"
+   },
+   {
+    "name": "Bulgur, trocken",
+    "menge": 160,
+    "einheit": "g"
+   },
+   {
+    "name": "Babyspinat",
+    "menge": 100,
+    "einheit": "g"
+   },
+   {
+    "name": "Skyr natur",
+    "menge": 500,
+    "einheit": "g"
+   },
+   {
+    "name": "Knoblauch",
+    "menge": 6,
+    "einheit": "g"
+   },
+   {
+    "name": "Zitronensaft",
+    "menge": 20,
+    "einheit": "g"
+   },
+   {
+    "name": "Petersilie TK",
+    "menge": 15,
+    "einheit": "g"
+   }
+  ],
+  "schritte": [
+   "Ofen auf 220 °C Ober-/Unterhitze (200 °C Umluft) vorheizen. Hokkaido waschen, entkernen und mit Schale in 2 cm große Würfel schneiden. Paprika in Stücke, rote Zwiebeln in Achtel schneiden. Kichererbsen abspülen und trocken tupfen.",
+   "Alles mit Olivenöl, je 2 TL Kreuzkümmel und Paprikapulver edelsüß, ½ TL Chiliflocken und Salz mischen, auf 2 Bleche verteilen und 25 min rösten; nach 15 min wenden. Feta zerbröseln und für die letzten 5 min darüberstreuen.",
+   "Bulgur mit 320 ml kochendem Salzwasser übergießen, zugedeckt 10–15 min quellen lassen.",
+   "Skyr mit gepresstem Knoblauch, Zitronensaft, Petersilie, Salz und Pfeffer verrühren.",
+   "Babyspinat unter den warmen Bulgur heben, Ofengemüse darauf verteilen, Kräuter-Skyr dazu servieren."
+  ]
+ },
+ {
+  "id": "xmas-feldsalat-birne-walnuss",
+  "reihenfolge": 1,
+  "titel": "Tag 1 · Vorspeise: Feldsalat mit Birne, karamellisierten Walnüssen & Blauschimmelkäse",
+  "portionen": 3,
+  "arbeitszeit": 25,
+  "gesamtzeit": 25,
+  "eier": "keine",
+  "tags": [
+   "Weihnachten",
+   "Vorspeise",
+   "vegetarisch",
+   "vorbereitbar"
+  ],
+  "zutaten": [
+   {
+    "name": "Feldsalat",
+    "menge": 120,
+    "einheit": "g"
+   },
+   {
+    "name": "Birne",
+    "menge": 300,
+    "einheit": "g"
+   },
+   {
+    "name": "Walnusskerne",
+    "menge": 60,
+    "einheit": "g"
+   },
+   {
+    "name": "Zucker",
+    "menge": 15,
+    "einheit": "g"
+   },
+   {
+    "name": "Butter",
+    "menge": 5,
+    "einheit": "g"
+   },
+   {
+    "name": "Blauschimmelkäse (z. B. Gorgonzola dolce)",
+    "menge": 75,
+    "einheit": "g"
+   },
+   {
+    "name": "Rapsöl",
+    "menge": 20,
+    "einheit": "g"
+   },
+   {
+    "name": "Apfelessig",
+    "menge": 20,
+    "einheit": "g"
+   },
+   {
+    "name": "Senf mittelscharf",
+    "menge": 8,
+    "einheit": "g"
+   },
+   {
+    "name": "Honig",
+    "menge": 10,
+    "einheit": "g"
+   },
+   {
+    "name": "Schalotte",
+    "menge": 20,
+    "einheit": "g"
+   }
+  ],
+  "schritte": [
+   "Bis 7 Tage vorher – Walnüsse: Zucker in einer Pfanne hellbraun schmelzen, Butter und Walnüsse zugeben, 1–2 min schwenken, mit einer Prise Salz auf Backpapier verteilen und auskühlen lassen. Grob hacken, luftdicht lagern.",
+   "Bis 3 Tage vorher – Dressing: Schalotte sehr fein würfeln, mit Essig, Senf, Honig, Salz und Pfeffer verrühren, Öl unterschlagen. In ein Schraubglas füllen und kühl stellen.",
+   "Am Vortag: Feldsalat putzen, waschen, trockenschleudern und mit Küchenpapier in einer Box kühl lagern.",
+   "Am Tag (10 min): Birnen vierteln, entkernen, in dünne Spalten schneiden. Feldsalat und Birne auf Teller verteilen, Käse darüberbröseln, Walnüsse darüberstreuen, Dressing kräftig schütteln und darüberträufeln."
+  ],
+  "hinweise": [
+   "Zeitplan Menü 1 (Annahme: 25.12.): ca. 20.12. Fleisch einlegen, Walnüsse rösten · 22.12. Rotkohl, Dressing · 23.12. Sauerbraten schmoren · 24.12. Panna cotta, Kloß-Kartoffeln kochen, Feldsalat waschen · am Tag ca. 50 min aktiv: Klöße, Soße fertigstellen und Fleisch erwärmen, Rotkohl erwärmen, Salat und Obstsalat anrichten.",
+   "Wein: Riesling mit etwas Restsüße und lebendiger Säure (Kabinett oder feinherb) – die Süße fängt Birne und Blauschimmel auf, die Säure passt zum Dressing. Alternativen: Silvaner, Scheurebe. Tipps: Dr. Loosen Ürziger Würzgarten Riesling Kabinett (Mosel, ca. 15,50 €), Dr. Loosen Grauschiefer Riesling feinherb (ca. 13 €)."
+  ],
+  "naehrwerte_portion": {
+   "kcal": 390,
+   "eiweiss": 9,
+   "kh": 22,
+   "fett": 29,
+   "bst": 5
+  },
+  "batch": "2026-KW47-Weihnachten"
+ },
+ {
+  "id": "xmas-rheinischer-sauerbraten",
+  "reihenfolge": 2,
+  "titel": "Tag 1 · Hauptgang: Rheinischer Sauerbraten",
+  "portionen": 4,
+  "arbeitszeit": 55,
+  "gesamtzeit": 210,
+  "eier": "keine",
+  "tags": [
+   "Weihnachten",
+   "Hauptgang",
+   "Rind",
+   "vorbereitbar"
+  ],
+  "zutaten": [
+   {
+    "name": "Rinderbraten (Oberschale), roh",
+    "menge": 1000,
+    "einheit": "g"
+   },
+   {
+    "name": "Zwiebel",
+    "menge": 150,
+    "einheit": "g"
+   },
+   {
+    "name": "Möhre",
+    "menge": 100,
+    "einheit": "g"
+   },
+   {
+    "name": "Knollensellerie",
+    "menge": 80,
+    "einheit": "g"
+   },
+   {
+    "name": "Butterschmalz",
+    "menge": 20,
+    "einheit": "g"
+   },
+   {
+    "name": "Tomatenmark",
+    "menge": 20,
+    "einheit": "g"
+   },
+   {
+    "name": "Aachener Printen (Kräuterprinten)",
+    "menge": 60,
+    "einheit": "g"
+   },
+   {
+    "name": "Zuckerrübensirup",
+    "menge": 20,
+    "einheit": "g"
+   },
+   {
+    "name": "Rosinen",
+    "menge": 40,
+    "einheit": "g"
+   },
+   {
+    "name": "Speisestärke",
+    "menge": 10,
+    "einheit": "g"
+   }
+  ],
+  "schritte": [
+   "5 Tage vorher – Marinade (15 min): Zwiebel, Möhre und Sellerie grob würfeln. 500 ml trockenen Rotwein, 200 ml Rotweinessig und 250 ml Wasser mit dem Gemüse, 2 Lorbeerblättern, 8 angedrückten Wacholderbeeren, 4 Nelken, 6 Pimentkörnern, 1 TL Pfefferkörnern und 1 TL Salz aufkochen. Vollständig abkühlen lassen.",
+   "Fleisch in ein enges Gefäß aus Glas/Porzellan (oder einen großen Gefrierbeutel) legen, mit der kalten Marinade vollständig bedecken und abgedeckt 4–5 Tage im Kühlschrank ziehen lassen. Täglich wenden.",
+   "2 Tage vorher – Schmoren (ca. 25 min Arbeit + 2,5–3 h): Fleisch herausnehmen und gründlich trocken tupfen. Marinade durch ein Sieb gießen, Flüssigkeit auffangen, Gemüse abtropfen lassen.",
+   "Butterschmalz im Bräter stark erhitzen, Fleisch rundum kräftig anbraten (ca. 8 min) und herausnehmen. Gemüse 5 min anrösten, Tomatenmark 1 min mitrösten.",
+   "Mit ca. 500 ml Marinade ablöschen, Printen hineinbröseln, Rübensirup einrühren, Fleisch zurücklegen. Zugedeckt bei kleiner Hitze oder im Ofen bei 160 °C Ober-/Unterhitze 2,5–3 h schmoren, bis das Fleisch weich ist. Einmal wenden, bei Bedarf Marinade nachgießen.",
+   "Fleisch herausnehmen. Soße samt Gemüse pürieren und durch ein Sieb streichen. Fleisch in der Soße abkühlen lassen und abgedeckt kühl stellen (hält 3 Tage).",
+   "Am Tag (15 min): Kaltes Fleisch quer zur Faser in ca. 1 cm dicke Scheiben schneiden. Soße aufkochen, Rosinen zugeben, mit Salz, Pfeffer und ggf. etwas Rübensirup oder Essig süß-sauer abschmecken. Ist sie zu dünn, Speisestärke in 2 EL kaltem Wasser anrühren und einrühren. Fleischscheiben in der Soße 10 min bei kleiner Hitze erwärmen (nicht kochen)."
+  ],
+  "hinweise": [
+   "1 kg ergibt 4 Portionen à ca. 165 g gegartes Fleisch – für 3 Personen bleibt eine Portion übrig (kleinere Bratenstücke trocknen leichter aus). Beim Metzger Oberschale oder Schaufelstück vom Rind „für Sauerbraten“ bestellen. Fertig eingelegtes Sauerbratenfleisch vom Metzger spart die Schritte 1–2.",
+   "Yazio: Wein, Essig und Wasser der Marinade nicht eintragen – der Alkohol verkocht, der Rest der Marinade wird verworfen. Gewürze ebenfalls weglassen.",
+   "Wein (passt zum ganzen Hauptgang): fruchtiger, leichter bis mittelkräftiger Rotwein mit guter Säure, moderaten Tanninen und wenig Holz. Kräftige, gerbstoffreiche Weine wirken neben Essig und Rosinen bitter. Rebsorten: Spätburgunder (Ahr – regional passend), Lemberger/Blaufränkisch, Frühburgunder, Zweigelt, Grenache. Tipps: Meyer-Näkel Spätburgunder „Grauwacke“ (Ahr, ca. 26 €), Graf Neipperg Lemberger trocken (Württemberg, ca. 10 € ab Weingut). Den Kochwein für die Marinade einfach und günstig wählen (trockener Spätburgunder oder Dornfelder)."
+  ],
+  "naehrwerte_portion": {
+   "kcal": 457,
+   "eiweiss": 57,
+   "kh": 29,
+   "fett": 12,
+   "bst": 3
+  },
+  "batch": "2026-KW47-Weihnachten"
+ },
+ {
+  "id": "xmas-apfelrotkohl",
+  "reihenfolge": 3,
+  "titel": "Tag 1 · Beilage: Apfelrotkohl",
+  "portionen": 3,
+  "arbeitszeit": 20,
+  "gesamtzeit": 80,
+  "eier": "keine",
+  "tags": [
+   "Weihnachten",
+   "Beilage",
+   "vegetarisch",
+   "vorbereitbar",
+   "einfrierbar"
+  ],
+  "zutaten": [
+   {
+    "name": "Rotkohl",
+    "menge": 750,
+    "einheit": "g"
+   },
+   {
+    "name": "Apfel säuerlich (z. B. Boskop)",
+    "menge": 200,
+    "einheit": "g"
+   },
+   {
+    "name": "Zwiebel",
+    "menge": 100,
+    "einheit": "g"
+   },
+   {
+    "name": "Butterschmalz",
+    "menge": 15,
+    "einheit": "g"
+   },
+   {
+    "name": "Zucker",
+    "menge": 20,
+    "einheit": "g"
+   },
+   {
+    "name": "Rotweinessig",
+    "menge": 30,
+    "einheit": "g"
+   },
+   {
+    "name": "Apfelsaft",
+    "menge": 150,
+    "einheit": "ml"
+   }
+  ],
+  "schritte": [
+   "Bis 3 Tage vorher (oder Wochen vorher zum Einfrieren): Rotkohl vierteln, Strunk entfernen, fein hobeln. Zwiebel würfeln, Äpfel schälen, entkernen und würfeln.",
+   "Butterschmalz im Topf erhitzen, Zwiebel glasig dünsten, Zucker darüberstreuen und leicht karamellisieren lassen.",
+   "Rotkohl, Äpfel, Essig, Apfelsaft, 2 Lorbeerblätter, 3 Nelken, 1 Zimtstange und 1 TL Salz zugeben. Zugedeckt bei kleiner Hitze ca. 60 min schmoren, gelegentlich umrühren, bei Bedarf etwas Wasser angießen.",
+   "Gewürze entfernen, mit Salz, Zucker und Essig abschmecken. Abkühlen lassen, kühl stellen (hält 3–4 Tage) oder portionsweise einfrieren.",
+   "Am Tag (5 min): zugedeckt 10 min erhitzen."
+  ],
+  "hinweise": [
+   "Rotkohl schmeckt aufgewärmt besser als frisch – ideal zum Vorkochen.",
+   "Wein: siehe Sauerbraten."
+  ],
+  "naehrwerte_portion": {
+   "kcal": 194,
+   "eiweiss": 4,
+   "kh": 30,
+   "fett": 6,
+   "bst": 8
+  },
+  "batch": "2026-KW47-Weihnachten"
+ },
+ {
+  "id": "xmas-kartoffelkloesse",
+  "reihenfolge": 4,
+  "titel": "Tag 1 · Beilage: Kartoffelklöße halb & halb",
+  "portionen": 3,
+  "arbeitszeit": 35,
+  "gesamtzeit": 70,
+  "eier": "keine",
+  "tags": [
+   "Weihnachten",
+   "Beilage",
+   "vegetarisch",
+   "ohne Ei"
+  ],
+  "zutaten": [
+   {
+    "name": "Kartoffeln, mehligkochend, roh",
+    "menge": 1000,
+    "einheit": "g"
+   },
+   {
+    "name": "Kartoffelstärke",
+    "menge": 20,
+    "einheit": "g"
+   },
+   {
+    "name": "Toastbrot",
+    "menge": 30,
+    "einheit": "g"
+   },
+   {
+    "name": "Butter",
+    "menge": 10,
+    "einheit": "g"
+   }
+  ],
+  "schritte": [
+   "Am Vortag: 500 g Kartoffeln mit Schale weich kochen (ca. 25 min), pellen, auskühlen lassen und abgedeckt kühl stellen.",
+   "Am Tag: Toastbrot klein würfeln und in Butter goldbraun rösten.",
+   "Gekochte Kartoffeln durch die Kartoffelpresse drücken. Restliche 500 g Kartoffeln schälen, fein reiben, in ein sauberes Küchentuch geben und sehr kräftig ausdrücken. Die Flüssigkeit auffangen, 10 min stehen lassen, das Wasser abgießen und die abgesetzte Stärke behalten.",
+   "Gepresste und geriebene Kartoffeln, abgesetzte Stärke, Kartoffelstärke, 1 TL Salz und etwas Muskat zügig verkneten. Der Teig soll formbar und nicht klebrig sein – sonst noch etwas Stärke zugeben.",
+   "Mit nassen Händen 9 Klöße formen und je 2–3 Brotwürfel in die Mitte drücken.",
+   "In einem großen Topf reichlich Salzwasser aufkochen, Hitze reduzieren. Klöße einlegen und im siedenden, nicht sprudelnden Wasser ca. 20 min gar ziehen lassen, bis sie oben schwimmen."
+  ],
+  "hinweise": [
+   "Abkürzung: 750 g Kloßteig „halb & halb“ aus dem Kühlregal – dann entfallen Schritt 1 und 3.",
+   "Wein: siehe Sauerbraten."
+  ],
+  "naehrwerte_portion": {
+   "kcal": 313,
+   "eiweiss": 7,
+   "kh": 60,
+   "fett": 3,
+   "bst": 7
+  },
+  "batch": "2026-KW47-Weihnachten"
+ },
+ {
+  "id": "xmas-panna-cotta-orange",
+  "reihenfolge": 5,
+  "titel": "Tag 1 · Dessert: Vanille-Panna-cotta mit Orangen-Granatapfel-Salat",
+  "portionen": 3,
+  "arbeitszeit": 25,
+  "gesamtzeit": 270,
+  "eier": "keine",
+  "tags": [
+   "Weihnachten",
+   "Dessert",
+   "vegetarisch",
+   "vorbereitbar"
+  ],
+  "zutaten": [
+   {
+    "name": "Schlagsahne 30 %",
+    "menge": 300,
+    "einheit": "g"
+   },
+   {
+    "name": "Milch 3,5 %",
+    "menge": 100,
+    "einheit": "g"
+   },
+   {
+    "name": "Zucker",
+    "menge": 40,
+    "einheit": "g"
+   },
+   {
+    "name": "Blattgelatine",
+    "menge": 5,
+    "einheit": "g"
+   },
+   {
+    "name": "Orange, Fruchtfleisch (Filets)",
+    "menge": 220,
+    "einheit": "g"
+   },
+   {
+    "name": "Granatapfelkerne",
+    "menge": 60,
+    "einheit": "g"
+   },
+   {
+    "name": "Pistazienkerne",
+    "menge": 15,
+    "einheit": "g"
+   }
+  ],
+  "schritte": [
+   "Bis 2 Tage vorher: 3 Blatt Gelatine 5 min in kaltem Wasser einweichen. 1 Vanilleschote längs aufschneiden, Mark herauskratzen.",
+   "Sahne, Milch, 35 g Zucker, Vanillemark und Schote aufkochen, 5 min leise köcheln lassen, vom Herd nehmen und die Schote entfernen.",
+   "Gelatine ausdrücken und in der heißen Sahne auflösen. In 3 Gläser füllen, abkühlen lassen und mind. 4 h, besser über Nacht, kalt stellen.",
+   "Am Tag (10 min, gern schon morgens): 2 Orangen so schälen, dass die weiße Haut mit entfernt wird, filetieren und den Saft auffangen. Filets mit Saft, Granatapfelkernen, 5 g Zucker und 1 Prise Zimt mischen und kühl stellen.",
+   "Vor dem Servieren den Obstsalat auf die Panna cotta geben und mit gehackten Pistazien bestreuen."
+  ],
+  "hinweise": [
+   "Fruchtig-frischer Abschluss nach dem kräftigen Sauerbraten.",
+   "Wein: süß, leicht und frisch – der Wein muss süßer sein als das Dessert, seine Säure passt zur Orange. Rebsorten: Moscato (Moscato d'Asti), Riesling Spätlese oder Auslese. Tipps: Paolo Saracco Moscato d'Asti (Piemont, nur ca. 5–6 % vol., Preis in DE nicht geprüft, meist ca. 12–18 €), Dr. Loosen Wehlener Sonnenuhr Riesling Spätlese (Mosel, Preis nicht geprüft)."
+  ],
+  "naehrwerte_portion": {
+   "kcal": 450,
+   "eiweiss": 7,
+   "kh": 28,
+   "fett": 34,
+   "bst": 2
+  },
+  "batch": "2026-KW47-Weihnachten"
+ },
+ {
+  "id": "xmas-maronensuppe-apfel",
+  "reihenfolge": 6,
+  "titel": "Tag 2 · Vorspeise: Maronensuppe mit Apfel & Thymian",
+  "portionen": 3,
+  "arbeitszeit": 20,
+  "gesamtzeit": 40,
+  "eier": "keine",
+  "tags": [
+   "Weihnachten",
+   "Vorspeise",
+   "vegetarisch",
+   "vorbereitbar",
+   "einfrierbar"
+  ],
+  "zutaten": [
+   {
+    "name": "Maronen, vorgegart (vakuumiert)",
+    "menge": 200,
+    "einheit": "g"
+   },
+   {
+    "name": "Zwiebel",
+    "menge": 80,
+    "einheit": "g"
+   },
+   {
+    "name": "Knollensellerie",
+    "menge": 100,
+    "einheit": "g"
+   },
+   {
+    "name": "Apfel",
+    "menge": 100,
+    "einheit": "g"
+   },
+   {
+    "name": "Butter",
+    "menge": 15,
+    "einheit": "g"
+   },
+   {
+    "name": "Gemüsebrühe (zubereitet)",
+    "menge": 600,
+    "einheit": "ml"
+   },
+   {
+    "name": "Schlagsahne 30 %",
+    "menge": 80,
+    "einheit": "g"
+   }
+  ],
+  "schritte": [
+   "Bis 3 Tage vorher (Kühlschrank) oder bis 4 Wochen vorher (einfrieren): Zwiebel, Sellerie und geschälten Apfel würfeln. 30 g Maronen für die Einlage beiseitelegen, den Rest grob hacken.",
+   "10 g Butter im Topf erhitzen, Zwiebel, Sellerie und Apfel 5 min andünsten. Gehackte Maronen kurz mitdünsten, mit Brühe ablöschen, 2 Zweige Thymian zugeben und 20 min köcheln lassen.",
+   "Thymian entfernen, Sahne zugeben und sehr fein pürieren. Mit Salz, Pfeffer, Muskat und einem Spritzer Zitrone abschmecken. Abkühlen lassen, kühl stellen oder einfrieren (beiseitegelegte Maronen separat aufbewahren).",
+   "Am Tag (10 min): Suppe erhitzen, bei Bedarf mit etwas Brühe verdünnen. Beiseitegelegte Maronen grob hacken, in 5 g Butter mit Thymianblättchen anrösten und auf die Suppe geben."
+  ],
+  "hinweise": [
+   "Zeitplan Menü 2 (Annahme: 26.12.): Suppe bis 4 Wochen vorher einfrieren oder bis 23.12. kochen · 24.12. Spinatfüllung, Dill-Senf-Soße, Tiramisu · 25.12. Möhren schälen, TK-Lachs in den Kühlschrank · am Tag ca. 30 min aktiv: Wellington wickeln, Möhren aufs Blech, Suppe erwärmen.",
+   "Wein: trockener, cremiger Weißwein mit mittlerem Körper, gern mit dezentem Holzfassausbau und moderater Säure – greift das Nussige und die Sahne auf. Rebsorten: Grauburgunder, Weißburgunder, Chardonnay. Tipps: Franz Keller Oberbergener Bassgeige Grauburgunder Erste Lage (Kaiserstuhl, ca. 19,50 €), als günstigere Variante Franz Keller Grauburgunder „vom Löss“ (Preis nicht geprüft)."
+  ],
+  "naehrwerte_portion": {
+   "kcal": 280,
+   "eiweiss": 4,
+   "kh": 33,
+   "fett": 14,
+   "bst": 6
+  },
+  "batch": "2026-KW47-Weihnachten"
+ },
+ {
+  "id": "xmas-lachs-wellington",
+  "reihenfolge": 7,
+  "titel": "Tag 2 · Hauptgang: Lachs-Wellington mit Spinat, Dill-Senf-Soße & Honig-Ofenmöhren",
+  "portionen": 3,
+  "arbeitszeit": 40,
+  "gesamtzeit": 75,
+  "eier": "nur im Teig (Glasur)",
+  "tags": [
+   "Weihnachten",
+   "Hauptgang",
+   "Fisch",
+   "vorbereitbar"
+  ],
+  "zutaten": [
+   {
+    "name": "Lachsfilet ohne Haut, roh",
+    "menge": 450,
+    "einheit": "g"
+   },
+   {
+    "name": "Blätterteig (Kühlregal)",
+    "menge": 275,
+    "einheit": "g"
+   },
+   {
+    "name": "Blattspinat TK",
+    "menge": 300,
+    "einheit": "g"
+   },
+   {
+    "name": "Frischkäse Doppelrahmstufe",
+    "menge": 75,
+    "einheit": "g"
+   },
+   {
+    "name": "Knoblauch",
+    "menge": 5,
+    "einheit": "g"
+   },
+   {
+    "name": "Eigelb",
+    "menge": 18,
+    "einheit": "g"
+   },
+   {
+    "name": "Möhren",
+    "menge": 600,
+    "einheit": "g"
+   },
+   {
+    "name": "Olivenöl",
+    "menge": 15,
+    "einheit": "g"
+   },
+   {
+    "name": "Honig",
+    "menge": 25,
+    "einheit": "g"
+   },
+   {
+    "name": "Crème fraîche",
+    "menge": 100,
+    "einheit": "g"
+   },
+   {
+    "name": "Dijon-Senf",
+    "menge": 20,
+    "einheit": "g"
+   },
+   {
+    "name": "Dill TK",
+    "menge": 10,
+    "einheit": "g"
+   },
+   {
+    "name": "Zitronensaft",
+    "menge": 15,
+    "einheit": "g"
+   }
+  ],
+  "schritte": [
+   "Bis 2 Tage vorher – Füllung: Spinat auftauen, in einem Sieb sehr kräftig ausdrücken (sonst weicht der Teig durch) und fein hacken. Mit Frischkäse, gepresstem Knoblauch, Abrieb von ½ Bio-Zitrone, Salz, Pfeffer und Muskat verrühren, kühl stellen.",
+   "Bis 2 Tage vorher – Soße: Crème fraîche, Dijon-Senf, 10 g Honig, Dill und 1 EL Zitronensaft verrühren, mit Salz und Pfeffer abschmecken, kühl stellen.",
+   "Am Vortag: Möhren schälen, je nach Dicke längs halbieren oder vierteln und in einer Dose kühl lagern. Tiefgekühlten Lachs über Nacht im Kühlschrank auftauen.",
+   "Am Tag: Ofen auf 190 °C Umluft vorheizen. Lachs trocken tupfen, salzen und pfeffern. Blätterteig ausrollen, die Hälfte der Füllung mittig in Größe des Lachses aufstreichen, Lachs darauflegen und die restliche Füllung oben verstreichen.",
+   "Teig um den Lachs schlagen, sodass die Ränder leicht überlappen, Enden einschlagen. Mit der Naht nach unten auf ein Blech mit Backpapier setzen. Eigelb mit 1 EL Milch verquirlen, den Teig damit bestreichen und oben 3–4-mal schräg einritzen. (So vorbereitet bis zu 6 h abgedeckt kühl stellen.)",
+   "Möhren mit Olivenöl, 15 g Honig, Thymian und Salz auf einem zweiten Blech mischen und 10 min vorbacken. Dann den Wellington dazuschieben und beides 25–30 min backen, bis der Teig tief goldbraun ist (Kerntemperatur Lachs ca. 50–52 °C).",
+   "5 min ruhen lassen, mit einem scharfen Messer in 3 Stücke schneiden und mit den Möhren und der kalten Dill-Senf-Soße servieren."
+  ],
+  "hinweise": [
+   "Lachs als gleichmäßig dickes Mittelstück kaufen; wegen der Feiertage am besten tiefgekühlt oder vakuumiert mit ausreichendem Mindesthaltbarkeitsdatum.",
+   "Ei nur als Glasur auf dem Teig – keine sichtbaren Eier.",
+   "Wein: trockener Weißwein mit guter Säure und etwas Schmelz – die Säure balanciert Blätterteig und Crème fraîche, Frucht und Mineralik passen zum Lachs; kein kräftiger Holzton (beißt sich mit Senf und Dill). Rebsorten: Chardonnay (Chablis), Weißburgunder; alternativ Spätburgunder Blanc de Noirs. Tipps: Domaine William Fèvre Chablis (Burgund, ca. 30–35 €, Preis in DE nicht geprüft), Dr. Heger Ihringer Winklerberg Weißburgunder Erste Lage (Kaiserstuhl, ca. 10–20 €)."
+  ],
+  "naehrwerte_portion": {
+   "kcal": 1012,
+   "eiweiss": 43,
+   "kh": 57,
+   "fett": 66,
+   "bst": 10
+  },
+  "batch": "2026-KW47-Weihnachten"
+ },
+ {
+  "id": "xmas-spekulatius-tiramisu",
+  "reihenfolge": 8,
+  "titel": "Tag 2 · Dessert: Spekulatius-Tiramisu (ohne Ei)",
+  "portionen": 3,
+  "arbeitszeit": 20,
+  "gesamtzeit": 380,
+  "eier": "keine",
+  "tags": [
+   "Weihnachten",
+   "Dessert",
+   "vegetarisch",
+   "vorbereitbar",
+   "ohne Ei"
+  ],
+  "zutaten": [
+   {
+    "name": "Mascarpone",
+    "menge": 200,
+    "einheit": "g"
+   },
+   {
+    "name": "Magerquark",
+    "menge": 125,
+    "einheit": "g"
+   },
+   {
+    "name": "Schlagsahne 30 %",
+    "menge": 75,
+    "einheit": "g"
+   },
+   {
+    "name": "Puderzucker",
+    "menge": 30,
+    "einheit": "g"
+   },
+   {
+    "name": "Vanillezucker",
+    "menge": 8,
+    "einheit": "g"
+   },
+   {
+    "name": "Gewürzspekulatius",
+    "menge": 100,
+    "einheit": "g"
+   },
+   {
+    "name": "Backkakao",
+    "menge": 5,
+    "einheit": "g"
+   }
+  ],
+  "schritte": [
+   "Bis 2 Tage vorher (mind. 6 h vorher): 120 ml Espresso oder sehr starken Kaffee kochen und abkühlen lassen, nach Belieben 2 EL Amaretto oder Rum zugeben.",
+   "Sahne steif schlagen. Mascarpone, Quark, Puderzucker und Vanillezucker glatt rühren, Sahne unterheben.",
+   "Die Hälfte der Spekulatius kurz in den Espresso tauchen und in 3 Gläser oder eine kleine Form legen, die Hälfte der Creme daraufgeben. Mit restlichen Spekulatius und Creme wiederholen.",
+   "Abgedeckt mind. 6 h, besser über Nacht, kühlen.",
+   "Kurz vor dem Servieren mit Kakao bestäuben, nach Wunsch einen zerbröselten Spekulatius darüberstreuen."
+  ],
+  "hinweise": [
+   "Yazio: Espresso nicht eintragen; Amaretto bei Verwendung separat tracken (2 EL ≈ 30 g ≈ 90 kcal gesamt).",
+   "Wein: süß, gereift, mit Nuss-, Karamell- und Trockenfruchtaromen – greift Espresso und Spekulatiusgewürze auf. Stil: 10 Jahre alter Tawny Port; Alternativen: Marsala Superiore, Vin Santo. Tipps: Taylor's 10 Years Old Tawny (ca. 21–33 €), Graham's 10 Years Old Tawny (ca. 30–37 €, Preis in DE nicht geprüft). Leicht gekühlt bei 12–14 °C servieren; geöffnet hält die Flasche mehrere Wochen."
+  ],
+  "naehrwerte_portion": {
+   "kcal": 600,
+   "eiweiss": 11,
+   "kh": 41,
+   "fett": 43,
+   "bst": 1
+  },
+  "batch": "2026-KW47-Weihnachten"
+ }
 ]

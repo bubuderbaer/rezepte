@@ -1,9 +1,144 @@
 [
-{"id":"2026-KW46","batch":"2026-KW46","titel":"KW 46/2026 – 3 Rezepte (2 × 2 + 1 × 4 Portionen)",
- "rubriken":[
-  {"name":"Gemüse & Obst","artikel":["Brokkoli – 1 großer Kopf (400 g)","Paprika rot – 4 Stück (600 g)","Karotte – 1 große (150 g)","Frühlingszwiebeln – 1 Bund","Champignons braun – 400 g","Zwiebel – 1 Stück","Rote Zwiebeln – 2 Stück (200 g)","Hokkaido-Kürbis – 1 Stück (ca. 1,2 kg)","Babyspinat – 100 g","Knoblauch – 1 Knolle","Ingwer – 1 kleines Stück","Limette – 1 Stück","Zitrone – 1 Stück"]},
-  {"name":"Kühlregal & Tiefkühl","artikel":["Hähnchenbrustfilet – 300 g","Körniger Frischkäse – 2 Becher à 200 g","Parmesan – 30 g","Feta light – 200 g","Skyr natur – 500 g","Blattspinat TK – 200 g","Erbsen TK – 150 g","Petersilie TK – 1 Packung"]},
-  {"name":"Vorrat & Konserven","artikel":["Basmatireis – 100 g","Vollkornpenne – 120 g","Bulgur – 160 g","Kichererbsen – 2 Dosen","Erdnussmus – 1 Glas","Sojasauce – 1 Flasche"]}
- ],
- "pruefen":["Rapsöl","Olivenöl","Süßstoff flüssig","Chiliflocken","Kreuzkümmel","Paprikapulver edelsüß","Muskat"]}
+ {
+  "id": "2026-KW46",
+  "batch": "2026-KW46",
+  "titel": "KW 46/2026 – 3 Rezepte (2 × 2 + 1 × 4 Portionen)",
+  "rubriken": [
+   {
+    "name": "Gemüse & Obst",
+    "artikel": [
+     "Brokkoli – 1 großer Kopf (400 g)",
+     "Paprika rot – 4 Stück (600 g)",
+     "Karotte – 1 große (150 g)",
+     "Frühlingszwiebeln – 1 Bund",
+     "Champignons braun – 400 g",
+     "Zwiebel – 1 Stück",
+     "Rote Zwiebeln – 2 Stück (200 g)",
+     "Hokkaido-Kürbis – 1 Stück (ca. 1,2 kg)",
+     "Babyspinat – 100 g",
+     "Knoblauch – 1 Knolle",
+     "Ingwer – 1 kleines Stück",
+     "Limette – 1 Stück",
+     "Zitrone – 1 Stück"
+    ]
+   },
+   {
+    "name": "Kühlregal & Tiefkühl",
+    "artikel": [
+     "Hähnchenbrustfilet – 300 g",
+     "Körniger Frischkäse – 2 Becher à 200 g",
+     "Parmesan – 30 g",
+     "Feta light – 200 g",
+     "Skyr natur – 500 g",
+     "Blattspinat TK – 200 g",
+     "Erbsen TK – 150 g",
+     "Petersilie TK – 1 Packung"
+    ]
+   },
+   {
+    "name": "Vorrat & Konserven",
+    "artikel": [
+     "Basmatireis – 100 g",
+     "Vollkornpenne – 120 g",
+     "Bulgur – 160 g",
+     "Kichererbsen – 2 Dosen",
+     "Erdnussmus – 1 Glas",
+     "Sojasauce – 1 Flasche"
+    ]
+   }
+  ],
+  "pruefen": [
+   "Rapsöl",
+   "Olivenöl",
+   "Süßstoff flüssig",
+   "Chiliflocken",
+   "Kreuzkümmel",
+   "Paprikapulver edelsüß",
+   "Muskat"
+  ]
+ },
+ {
+  "id": "2026-KW47-Weihnachten",
+  "batch": "2026-KW47-Weihnachten",
+  "titel": "Weihnachten 2026 – 2 Menüs à 3 Gänge für 3 Personen",
+  "rubriken": [
+   {
+    "name": "Einkauf 1 – bis ca. 20.12. (Fleisch & Lagerware)",
+    "artikel": [
+     "Rinderbraten Oberschale – 1 kg (beim Metzger vorbestellen)",
+     "Rotwein trocken zum Kochen – 1 Flasche",
+     "Rotweinessig – 1 Flasche (230 ml)",
+     "Zwiebeln – 5 Stück (330 g)",
+     "Schalotte – 1 Stück",
+     "Möhre – 1 Stück (100 g)",
+     "Knollensellerie – 1 kleine Knolle (180 g)",
+     "Rotkohl – 1 kleiner Kopf (750 g)",
+     "Äpfel säuerlich (Boskop) – 3 Stück (300 g)",
+     "Kartoffeln mehligkochend – 1 kg",
+     "Aachener Printen – 1 Packung (60 g)",
+     "Zuckerrübensirup – 1 Glas",
+     "Rosinen – 40 g",
+     "Walnusskerne – 60 g",
+     "Maronen vorgegart – 200 g",
+     "Pistazienkerne – 15 g",
+     "Gewürzspekulatius – 1 Packung (100 g)",
+     "Blattgelatine – 1 Packung (3 Blatt)",
+     "Vanilleschote – 1 Stück",
+     "Kartoffelstärke – 1 Packung (20 g)",
+     "Blattspinat TK – 300 g",
+     "Lachsfilet ohne Haut TK – 450 g (oder vakuumiert frisch am 23.12.)"
+    ]
+   },
+   {
+    "name": "Einkauf 2 – ca. 23.12. (Frisches)",
+    "artikel": [
+     "Feldsalat – 120 g",
+     "Birnen – 2 Stück (300 g)",
+     "Orangen – 2 Stück",
+     "Granatapfel – 1 Stück (60 g Kerne)",
+     "Möhren – 600 g",
+     "Bio-Zitrone – 1 Stück",
+     "Thymian frisch – 1 Bund",
+     "Schlagsahne 30 % – 3 Becher à 200 g (455 g)",
+     "Mascarpone – 1 Becher (250 g)",
+     "Magerquark – 1 Becher (250 g)",
+     "Crème fraîche – 1 Becher (150 g)",
+     "Frischkäse Doppelrahmstufe – 1 Packung (75 g)",
+     "Blauschimmelkäse Gorgonzola dolce – 75 g",
+     "Blätterteig Kühlregal – 1 Rolle (275 g)",
+     "Toastbrot – 1 Scheibe (30 g)",
+     "Dill TK – 1 Packung"
+    ]
+   }
+  ],
+  "pruefen": [
+   "Butter (30 g)",
+   "Butterschmalz",
+   "Milch 3,5 % (100 ml)",
+   "Eier (1 Eigelb)",
+   "Zucker",
+   "Puderzucker",
+   "Vanillezucker",
+   "Honig",
+   "Senf mittelscharf",
+   "Dijon-Senf",
+   "Rapsöl",
+   "Olivenöl",
+   "Apfelessig",
+   "Tomatenmark",
+   "Speisestärke",
+   "Gemüsebrühe",
+   "Apfelsaft (150 ml)",
+   "Backkakao",
+   "Espresso oder Kaffee",
+   "Knoblauch",
+   "Lorbeerblätter",
+   "Wacholderbeeren",
+   "Nelken",
+   "Pimentkörner",
+   "Pfefferkörner",
+   "Zimtstange und Zimt gemahlen",
+   "Muskat"
+  ]
+ }
 ]
